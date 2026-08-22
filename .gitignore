@@ -1,0 +1,9 @@
+# Arquivos temporários do Office (criados quando o arquivo está aberto)
+~$*
+
+# Cruft de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
