@@ -10,8 +10,8 @@ Cada sessão tem sua própria pasta dentro de `Materiais/`:
 
 | Sessão | Tema | Material | Slides | Notebook |
 |---|---|---|---|---|
-| 01 | [Apresentação da Disciplina](Materiais/01_Apresentacao-da-Disciplina) | [PDF](Materiais/01_Apresentacao-da-Disciplina/material.pdf) | [PPTX](Materiais/01_Apresentacao-da-Disciplina/slides.pptx) | — |
-| 02 | [Introdução ao PLN](Materiais/02_Introducao-ao-PLN) | [PDF](Materiais/02_Introducao-ao-PLN/material.pdf) | [PPTX](Materiais/02_Introducao-ao-PLN/slides.pptx) | [ipynb](Materiais/02_Introducao-ao-PLN/introducao_pln.ipynb) |
+| 01 | [Apresentação da Disciplina](Materiais/01_Apresentacao-da-Disciplina) | [PDF](Materiais/01_Apresentacao-da-Disciplina/material.pdf) | [PDF](Materiais/01_Apresentacao-da-Disciplina/slides.pdf) | — |
+| 02 | [Introdução ao PLN](Materiais/02_Introducao-ao-PLN) | [PDF](Materiais/02_Introducao-ao-PLN/material.pdf) | [PDF](Materiais/02_Introducao-ao-PLN/slides.pdf) | [ipynb](Materiais/02_Introducao-ao-PLN/introducao_pln.ipynb) |
 
 A disciplina tem 16 sessões no total; as pastas vão aparecendo aqui conforme as aulas acontecem.
 
